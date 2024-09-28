@@ -2,7 +2,7 @@
 
 # Configurações Globais
 - $ git config --global user.name "nome" → Configura o nome do usuário para os commits.
-- $ git config --global user.email "email" → Configura o e-mail do usuário para os commits.
+-$ git config --global user.email "email" → Configura o e-mail do usuário para os commits.
 
 # Inicializando e Verificando o Repositório
 $ git init → Inicializa um novo repositório Git.
