@@ -1,2 +1,2 @@
-# repo01
-Exercício em duplas Git
+# Lista de Comandos do Git
+
