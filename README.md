@@ -76,6 +76,8 @@
 - $ ls -l → Lista arquivos no diretório com detalhes.
 - $ ls -lha → Lista arquivos, incluindo ocultos, com tamanhos legíveis.
 - $ mkdir nome_do_arquivo → Cria um novo diretório.
+- $ touch nome_do_arquivo.txt → O comando touch cria um novo arquivo vazio.
+- $ echo "Seu conteúdo aqui" > nome_do_arquivo.txt → Esse método cria um arquivo e pode adicionar conteúdo a ele imediatamente.
 
 # Extra
 - $ git stash → Salva temporariamente as mudanças não commitadas para você trabalhar em outra coisa e depois restaurá-las.
